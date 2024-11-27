@@ -4,7 +4,7 @@
 
 ### Sign-up Page
 
-The username, email and the encrypted password is saved in the database
+The username, email and the encrypted password is saved in the database.
 ![signup page](/images/signin.png)
 
 ### ChatBot
