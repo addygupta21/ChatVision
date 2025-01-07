@@ -17,7 +17,7 @@ The chat is saved in local storage of the user to ensure privacy, which is loade
 
 ### Text-to-Image
 
-ChatVision generates images using AI from the textual prompt.
+ChatVision generates images using AI from the textual prompts.
 
 ![Text2Image](/images/T2I.png)
 
