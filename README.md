@@ -27,7 +27,7 @@ You can provide it with a topic and the difficulty.
 
 ![Quiz1](/images/quiz.png)
 
-ChatVision will start taking your quiz on that particular topic.
+ChatVision will start taking your quiz on that particular topic
 
 ![Quiz1](/images/quiz2.png)
 
